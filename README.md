@@ -57,7 +57,7 @@ def upload_to_cloudinary(image_path):
     result = cloudinary.uploader.upload(image_path)
     return result['secure_url']
 
-```python
+python```
 🧑‍💻 Author
 Made with ❤️ by Kamlesh Kumar Verma
 
