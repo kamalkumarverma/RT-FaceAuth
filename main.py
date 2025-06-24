@@ -13,9 +13,9 @@ import time
 
 # Cloudinary Configuration for data 
 cloudinary.config(
-    cloud_name="dlzxrsnps",
-    api_key="939522942286398",
-    api_secret="QyVbL-GbhfUBRX1iW7yr3JePDUo",
+    cloud_name="",
+    api_key="",
+    api_secret="",
     secure=True
 )
 
