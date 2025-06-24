@@ -28,16 +28,8 @@ A **Real-Time Face Authentication System** built with **Python**, **OpenCV**, an
 
 ## 📁 Project Structure
 
-RT-FaceAuth/
-├── Images/ # User face images for encoding
-├── Resources/
-│ ├── background.png # Main background image
-│ └── Modes/ # Mode UI screens
-├── EncodeGenerator.py # Encode faces and upload to Cloudinary
-├── Main.py # Main real-time recognition system
-├── EncodeFile.p # Stored face encodings
-├── cloudinary_config.py # Cloudinary setup and upload logic
-└── README.md
+![image](https://github.com/user-attachments/assets/c1b70c0e-e822-4cc2-919b-652447ceaa28)
+
 
 less
 Copy
