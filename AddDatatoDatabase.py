@@ -5,8 +5,8 @@ import json
 # Cloudinary Configuration
 cloudinary.config(
     cloud_name="dlzxrsnps",
-    api_key="939522942286398",
-    api_secret="QyVbL-GbhfUBRX1iW7yr3JePDUo",
+    api_key="",
+    api_secret="",
     secure=True
 )
 
