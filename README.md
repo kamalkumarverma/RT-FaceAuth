@@ -31,9 +31,6 @@ A **Real-Time Face Authentication System** built with **Python**, **OpenCV**, an
 ![image](https://github.com/user-attachments/assets/c1b70c0e-e822-4cc2-919b-652447ceaa28)
 
 
-less
-Copy
-Edit
 
 ---
 
@@ -59,57 +56,14 @@ cloudinary.config(
 def upload_to_cloudinary(image_path):
     result = cloudinary.uploader.upload(image_path)
     return result['secure_url']
-📦 Setup Instructions
-1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/RT-FaceAuth.git
-cd RT-FaceAuth
-2. Create and activate virtual environment
-bash
-Copy
-Edit
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
-3. Install dependencies
-bash
-Copy
-Edit
-pip install opencv-python face_recognition cvzone cloudinary numpy
-🧠 Encode Faces
-Add clear face images to the Images/ folder.
 
-Run:
 
-bash
-Copy
-Edit
-python EncodeGenerator.py
-This will:
-
-Encode each face
-
-Save encodings in EncodeFile.p
-
-Upload images to Cloudinary and print URLs
-
-🔍 Run Real-Time Recognition
-Start the webcam-based face authentication system:
-
-bash
-Copy
-Edit
-python Main.py
 🧑‍💻 Author
 Made with ❤️ by Kamlesh Kumar Verma
 
-GitHub: @kamlesh1002
+GitHub: [@kamlesh1002](https://github.com/kamalkumarverma)
 
-Email: kamlesh1002@gmail.com
+Email: kamleshverma1002@gmail.com
 
 📜 License
 Licensed under the MIT License
@@ -122,3 +76,4 @@ GUI for adding new users
 Multiple camera support
 
 Face registration via UI
+
