@@ -3,6 +3,13 @@
 A **Real-Time Face Authentication System** built with **Python**, **OpenCV**, and **face_recognition**, using **Cloudinary** for cloud image storage. This project uses webcam video to recognize faces and display related user info with a custom UI overlay.
 
 ---
+![image](https://github.com/user-attachments/assets/72ee97ae-9c21-4f63-be3f-3ed19d0586a9)
+
+![image](https://github.com/user-attachments/assets/2bb8550d-c259-4b66-ab0a-2652416c6b53)
+![image](https://github.com/user-attachments/assets/8f018f61-13b1-40e0-b191-cf3159b55e5c)
+![image](https://github.com/user-attachments/assets/58c1e936-e516-4d82-92a2-cf4034456c15)
+![image](https://github.com/user-attachments/assets/4f4e42f0-3004-46fa-aa68-d13a1ae5d2a0)
+
 
 ## 🎯 Features
 
