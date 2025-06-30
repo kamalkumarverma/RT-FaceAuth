@@ -10,6 +10,7 @@ A **Real-Time Face Authentication System** built with **Python**, **OpenCV**, an
 ![image](https://github.com/user-attachments/assets/58c1e936-e516-4d82-92a2-cf4034456c15)
 ![image](https://github.com/user-attachments/assets/4f4e42f0-3004-46fa-aa68-d13a1ae5d2a0)
 
+![image](https://github.com/user-attachments/assets/fce332d1-6111-4685-9b0c-fac2f761d603)
 
 ## 🎯 Features
 
